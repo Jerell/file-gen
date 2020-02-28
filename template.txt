@@ -1,0 +1,4 @@
+this is going to be an input file with placeholders where I'm supposed to insert the generated values
+the placeholders will look like ZAA, ZAB, ZAC
+a file will be generated for every combination of values
+ZAA ZAA ZAB ZAC ZAB ZAA ZAC ZAA ZAC ZAB ZAB ZAB
